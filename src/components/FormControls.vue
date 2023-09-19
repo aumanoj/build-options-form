@@ -33,7 +33,7 @@ export default {
       this.errors = {}
       // Form is valid; proceed with submission
       this.submitted = true
-      alert('From submitted successfully!')
+      alert('Form submitted successfully!')
     }
   }
 }
