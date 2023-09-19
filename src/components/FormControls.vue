@@ -1,5 +1,9 @@
 <script>
+import FormData from './FormDetails.vue'
 export default {
+  components: {
+    FormData
+  },
   // Form data Object
   data() {
     return {
